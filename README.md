@@ -40,4 +40,4 @@ I build ML systems where every output is verified and every model choice is a me
 
 #### Get in touch
 
-[LinkedIn](https://linkedin.com/in/oskar-stone) · [oskarfstone@gmail.com](mailto:oskarfstone@gmail.com)
+[LinkedIn](https://linkedin.com/in/oskar-stone) · oskarfstone[at]gmail[dot]com
