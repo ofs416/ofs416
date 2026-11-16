@@ -4,7 +4,7 @@ Machine learning engineer in London. Cambridge MEng (First-class) in Information
 
 I build ML systems where every output is verified and every model choice is a measurement.
 
-- 🔨 **Now:** founder and ML engineer at **Questral**, generating exam-board-aligned maths questions with an agentic LLM + SymPy pipeline. Every question is proven correct in a sandbox and screened by a calibrated LLM-as-judge panel.
+- 🔨 **Now:** founder and ML engineer at **[Questral](https://questral.co.uk)**, generating exam-board-aligned maths questions with an agentic LLM + SymPy pipeline. Every question is proven correct in a sandbox and screened by a calibrated LLM-as-judge panel.
 - 🔬 **Before:** research assistant at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), UCL, building inference pipelines for Recognition Parameterised Models in JAX and Julia.
 - 📚 **Learning:** C++ and Rust, from the systems side down.
 
